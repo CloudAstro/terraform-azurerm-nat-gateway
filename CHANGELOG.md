@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-nat-gateway/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([0713ec4](https://github.com/CloudAstro/terraform-azurerm-nat-gateway/commit/0713ec43d4e7790f5fee8abaa616b2a03e0bc5a6))
+
 ## 1.0.0 (2025-06-23)
 
 
